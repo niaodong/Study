@@ -1,2 +1,2 @@
 # Study
-《python编程》练习项目
+《python编程从入门到实践》练习项目
